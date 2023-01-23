@@ -50,6 +50,9 @@ TagManager:
   - name: Hazards
     uniqueID: 499156941
     locked: 0
+  - name: Flower
+    uniqueID: 1135758179
+    locked: 0
   - name: Player
     uniqueID: 4214644907
     locked: 0

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Stem2
+  m_Name: Poppy 2_4
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 108e4af86dff89f4d81b6d86ca85b0c9, type: 3}
+  m_Sprite: {fileID: 491121157, guid: 88358b9a5d692f147a28b41175d5cf80, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
