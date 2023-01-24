@@ -53,6 +53,12 @@ TagManager:
   - name: Flower
     uniqueID: 1135758179
     locked: 0
+  - name: Interactable
+    uniqueID: 1632085491
+    locked: 0
+  - name: NPC
+    uniqueID: 2261684217
+    locked: 0
   - name: Player
     uniqueID: 4214644907
     locked: 0
