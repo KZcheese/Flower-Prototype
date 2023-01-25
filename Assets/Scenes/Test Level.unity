@@ -7577,7 +7577,7 @@ GameObject:
   - component: {fileID: 837154497}
   - component: {fileID: 837154496}
   - component: {fileID: 837154498}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Platforms Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10648,7 +10648,7 @@ GameObject:
   - component: {fileID: 1094084073}
   - component: {fileID: 1094084072}
   - component: {fileID: 1094084074}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Hazards Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11272,3 +11272,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7c63d428ee10c04691c87f4eba32ee4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxjumpHeight: 4
+  minjumpHeight: 1
+  timetoApex: 0.4
+  speed: 6
+  accelerationtimeGrounded: 0.1
+  accelerationtimeAirborne: 0.2
+--- !u!114 &1980538419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1417924505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a445b74efa8644c438085486d9c42dda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boxCollider: {fileID: 1980538416}
+  horizontalRayCount: 0
+  verticalRayCount: 0
+  horizontalRayspacing: 0
+  verticalRayspacing: 0
+  collisionMask:
+    serializedVersion: 2
+    m_Bits: 64
